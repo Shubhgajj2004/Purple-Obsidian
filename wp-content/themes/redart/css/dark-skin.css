@@ -1,0 +1,1416 @@
+@charset "utf-8";
+/*----*****---- << Default >> ----*****----*/
+
+/* Background Color */
+
+body,
+.footer-copyright,
+.vc-blog-section .vc_images_carousel .vc_carousel-control,
+.vc-contact-section .vc-contact_map::after,
+#yith-wcwl-popup-message,
+.portfolio.type2 .image-overlay .links a:hover,
+.layout-boxed .inner-wrapper,
+.rotate-header #main-menu .menu,
+.two-color-header .main-header-wrapper:after {
+    background-color: #000000;
+}
+
+.dt-sc-button.with-icon.icon-right.type1:hover,
+.dt-sc-button.filled:hover,
+input[type="submit"]:hover,
+button:hover,
+input[type="reset"]:hover,
+.dt-sc-team-social.rounded-square li a:hover,
+.dt-sc-icon-box.type3:hover .icon-wrapper span,
+.dt-sc-counter.type2:hover .dt-sc-couter-icon-holder,
+.skin-highlight .dt-sc-testimonial.type6 .dt-sc-testimonial-author:before,
+.skin-highlight .dt-sc-testimonial.type6:after,
+.dt-sc-contact-info.type2 span,
+.dt-sc-contact-info.type6:before,
+.dt-sc-contact-info.type8 span,
+.dt-sc-icon-box.type7:hover .icon-wrapper span,
+.dt-sc-icon-box.type6:hover .icon-wrapper,
+.dt-sc-icon-box.type6:hover .icon-content a,
+.dt-sc-image-caption:hover .dt-sc-image-content a,
+.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="submit"],
+.dt-sc-portfolio-sorting.type1 a:before,
+.dt-sc-portfolio-sorting.type1 a:after,
+.dt-sc-portfolio-sorting.type6 a.active-sort:before,
+.dt-sc-portfolio-sorting.type6 a,
+.vc-blog-section .vc_images_carousel .vc_carousel-control:focus,
+.vc_images_carousel .vc_carousel-control:hover,
+.dt-sc-icon-box.type9 .icon-content .dt-sc-sociable li a:hover,
+.vc-contact-section .dt-sc-sociable.vc-about-social-icons li a:hover,
+.portfolio.type2 .image-overlay .links a,
+.rotate-header #main-menu.nav-is-visible .menu .current-menu-ancestor>a,
+.rotate-header #main-menu.nav-is-visible .menu li:hover>a,
+.rotate-header .menu-trigger span,
+.rotate-header .menu-trigger span::before,
+.rotate-header .menu-trigger span::after,
+.rotate-header .nav-is-visible .menu-trigger span::before,
+.rotate-header .nav-is-visible .menu-trigger span::after,
+.rotate-header #main-menu.nav-is-visible .menu .current_page_item>a,
+#main-menu ul li.menu-item-simple-parent ul,
+.rotate-header #main-menu.nav-is-visible .menu .current-menu-item>a,
+#main-menu .megamenu-child-container,
+#main-menu .megamenu-child-container.menu-hasbg,
+#dt-style-picker,
+#dt-style-picker h2,
+#dt-style-picker ul li a,
+.style-picker-ico,
+.breadcrumb .fa.default,
+.dt-menu-toggle-icon,
+.dt-menu-toggle-icon:before,
+.dt-menu-toggle-icon:after,
+.rotate-header #main-menu.nav-is-visible .menu li:hover>.nolink-menu {
+    background-color: #FFFFFF;
+}
+
+.main-title-section-wrapper,
+.dt-sc-portfolio-sorting.type2 a,
+.dt-sc-portfolio-sorting.type7 a,
+.dt-sc-team .dt-sc-team-details,
+.top-bar,
+.blog-entry.sticky {
+    background-color: #252525;
+}
+
+.portfolio.type7 .image-overlay .links a:before,
+.portfolio.type7 .image-overlay .links a:after {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.portfolio.type7 .image-overlay .links a:hover:before,
+.portfolio.type7 .image-overlay .links a:hover:after {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.fullwidth-header.semi-transparent-header .main-header-wrapper,
+.boxed-header.semi-transparent-header .main-header,
+.woocommerce #yith-wcwl-popup-message,
+.page-template #yith-wcwl-popup-message {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.header-align-center.fullwidth-menu-header .is-sticky .menu-wrapper,
+.standard-header .is-sticky .main-header-wrapper,
+.header-on-slider .is-sticky .main-header-wrapper,
+.fullwidth-header.semi-transparent-header.header-on-slider .is-sticky .main-header-wrapper,
+.rotate-header #header.nav-is-visible .main-header-wrapper {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dt-sc-vertical-separator:before,
+.domain-search {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* Color */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+#main-menu ul.menu>li>a,
+.dt-sc-button.with-icon:hover span,
+.dt-sc-portfolio-sorting.type6 a:hover,
+.dt-sc-portfolio-sorting.type6 a.active-sort,
+.portfolio.type6 .image-overlay .links a:hover,
+.dt-sc-icon-box.type9 .icon-content strong,
+#footer .footer-copyright.dt-sc-dark-bg .payment-options a:hover,
+.dt-sc-dark-bg .breadcrumb a,
+.secondary-sidebar .widget ul li:hover:before,
+.widget ul li:hover:before,
+.widget.widget_nav_menu ul.menu li:hover:before,
+#footer .widget ul li:hover:before,
+.portfolio.type2 .image-overlay .links a:hover,
+.portfolio-categories a,
+.portfolio-categories i,
+.project-details li span,
+.dt-sc-sociable li a,
+.tagcloud a,
+.vc_images_carousel .vc_carousel-control,
+.widget h3 a,
+.entry-meta-data p a,
+.entry-meta-data p i,
+.author-info h3 a,
+.page-link span,
+.page-link a span,
+.page-link a,
+ul.commentlist li .author-name>a,
+ul.commentlist li .reply a,
+ul.commentlist li .reply a:hover,
+.gallery-caption,
+.breadcrumb a,
+.secondary-sidebar .tagcloud a:hover,
+.secondary-sidebar .widget ul li.recentcomments a:hover,
+.dt-menu-toggle,
+.menu-icons-wrapper .search a,
+.menu-icons-wrapper .cart a,
+#main-menu ul.menu>li>.no-link-menu {
+    color: #FFFFFF;
+}
+
+.dt-sc-portfolio-sorting.type2 a:hover,
+.dt-sc-portfolio-sorting.type2 a.active-sort,
+.dt-sc-portfolio-sorting.type6 a,
+.rotate-header #main-menu.nav-is-visible .menu .current-menu-ancestor>a,
+.rotate-header #main-menu.nav-is-visible .menu li:hover a,
+.rotate-header #main-menu.nav-is-visible .menu .current_page_item>a,
+#main-menu .megamenu-child-container>ul.sub-menu>li>a,
+#main-menu .megamenu-child-container>ul.sub-menu>li>.nolink-menu,
+#main-menu .megamenu-child-container ul.sub-menu>li>ul li a,
+#main-menu .megamenu-child-container ul.sub-menu>li>ul li a,
+#main-menu ul li.menu-item-simple-parent ul li a,
+.rotate-header #main-menu.nav-is-visible .menu .current-menu-item>a,
+.style-picker-ico,
+.style-picker-ico:hover,
+.rotate-header #main-menu.nav-is-visible .menu li.current_page_item a,
+.rotate-header #main-menu.nav-is-visible .menu li:hover .nolink-menu {
+    color: #000000;
+}
+
+.dt-sc-contact-info.type4:hover span,
+.dt-sc-contact-info.type4 p,
+.dt-sc-contact-info.type4 small,
+.dt-sc-contact-info.type4 p a,
+.dt-sc-newsletter-section.type8 .newsletter-text p,
+.vc-enquiry-details p,
+.blog-entry.entry-date-author-left .entry-date-author .entry-author a,
+.dt-sc-icon-box.type9 .icon-content p,
+.dt-sc-icon-box.type9 .icon-content p a,
+.dt-sc-pricing-table.dt-sc-pr-tb-col .dt-sc-tb-content li,
+.dt-sc-event.type2 .event-timing a {
+    color: #999999;
+}
+
+.dt-sc-icon-box.type9 .icon-wrapper span,
+#dt-style-picker h2,
+#dt-style-picker h3 {
+    color: #252525;
+}
+
+.dt-sc-icon-box.type9:hover .icon-wrapper span {
+    color: #494949;
+}
+
+body,
+a:hover,
+p,
+.entry-details .entry-body p,
+#footer .footer-links li a,
+#footer .payment-options li a:hover,
+#footer .copyright p a,
+.dt-sc-service-content p,
+.dt-sc-icon-content-wrapper:hover .dt-sc-ico-content p,
+.dt-sc-icon-content-wrapper:hover .dt-sc-ico-content p a,
+blockquote q,
+label span,
+label,
+.widget ul li a,
+ol.dt-sc-fancy-list li span,
+.vc-about-section p,
+.dt-sc-icon-box.type9:hover .icon-content p,
+.dt-sc-icon-box.type9:hover .icon-content p a,
+.vc-contact-section .vc-contact-info-container .dt-sc-contact-info p a:hover,
+.vc-enquiry-details .dt-sc-contact-info a:hover,
+.vc-enquiry-details p strong,
+.dt-sc-newsletter-section.type8 .newsletter-text p i,
+.secondary-sidebar .widget ul li>a,
+.secondary-sidebar .tagcloud a,
+.footer-widgets .widget ul li>a,
+#footer .widget ul li>a {
+    color: rgba( 255, 255, 255, 0.9);
+}
+
+#footer .payment-options li a,
+#footer .copyright p,
+.recent-posts-widget li .entry-meta p,
+.secondary-sidebar .widget ul li::before,
+.widget ul li:before,
+.widget.widget_nav_menu ul.menu li:before,
+.tweet_list li .tweet-time,
+.available-domains li p {
+    color: rgba( 255, 255, 255, 0.3);
+}
+
+.rotate-header #main-menu .menu li a i,
+.rotate-header #main-menu .menu li .nolink-menu i {
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.recent-posts-widget li .entry-meta a,
+.dt-sc-testimonial.type5 .dt-sc-testimonial-author cite small,
+.breadcrumb span.current {
+    color: rgba( 255, 255, 255, 0.5);
+}
+
+/* Border-Color */
+
+.dt-sc-portfolio-sorting a,
+.page-link span,
+.page-link a,
+ul.commentlist li .reply a,
+.dt-menu-toggle {
+    border-color: #FFFFFF;
+}
+
+#main-menu ul>li.menu-item-simple-parent:hover>a,
+#main-menu .menu li a {
+    border-color: #FFFFFF !important;
+}
+
+.widget ul li,
+.widget.widget_nav_menu ul.menu li,
+.widget.widget_categories ul li>a span,
+.widget.widget_archive ul li>a span,
+.dt-sc-portfolio-sorting.type5 a,
+.widget.woocommerce ul.product_list_widget li,
+.widget.woocommerce ul.product-categories li:last-child,
+.widget.woocommerce ul.product_list_widget li a img,
+.select2-drop-active {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.woocommerce .shop_table th:first-child,
+.woocommerce .shop_table td:first-child,
+.woocommerce .shop_table th:last-child,
+.woocommerce .shop_table td:last-child {
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.widget ul li:hover,
+.widget.widget_nav_menu ul.menu li:hover,
+.widget.woocommerce ul.product_list_widget li:hover,
+#footer .tweet_list li:hover {
+    border-bottom-color: #FFFFFF;
+}
+
+.widget.widget_categories ul li:hover>a span,
+.widget.widget_archive ul li:hover>a span {
+    border-left-color: #ffffff;
+    border-right-color: #ffffff;
+    border-top-color: #ffffff;
+    color: #FFFFFF;
+}
+
+.project-details li,
+#dt-style-picker,
+#dt-style-picker h2,
+.style-picker-ico,
+#dt-style-picker ul li a:hover,
+.blog-entry.blog-thumb-style {
+    border-color: #333333;
+}
+
+.dt-sc-pricing-table.dt-sc-pr-tb-col .dt-sc-tb-header .dt-sc-price,
+.dt-sc-pricing-table.dt-sc-pr-tb-col .dt-sc-tb-content li {
+    border-color: #666666;
+}
+
+#dt-style-picker ul li a {
+    border-color: #eeeeee;
+}
+
+@media only screen and (max-width: 767px) {
+    #main-menu .megamenu-child-container>ul.sub-menu>li>a,
+    #main-menu .megamenu-child-container>ul.sub-menu>li>.nolink-menu,
+    #main-menu .megamenu-child-container ul.sub-menu>li>ul li a,
+    #main-menu ul li.menu-item-simple-parent ul li a {
+        color: #FFFFFF;
+    }
+    .left-header #main-menu>ul.menu>li>a,
+    .left-header #main-menu>ul.menu>li:last-child>a,
+    #main-menu .megamenu-child-container ul.sub-menu>li.current-menu-ancestor>a,
+    #main-menu ul li.menu-item-simple-parent>ul>li>a,
+    #main-menu .menu-item-megamenu-parent .megamenu-child-container>ul.sub-menu>li>a {
+        border-color: #FFFFFF !important;
+    }
+}
+
+/* Box shadow-Color */
+
+#main-menu ul li.menu-item-simple-parent ul li ul {
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+/*----*****---- << Shortcodes >> ----*****----*/
+
+/* Background-Color */
+
+.dt-sc-dropcap-container .dt-sc-dropcap,
+.dt-sc-boxed-tooltip:hover,
+.dt-sc-image-caption.type2 .dt-sc-image-content,
+.dt-sc-button.with-icon span::after,
+.dt-sc-button.filled.dt-sc-expand::after,
+.dt-sc-toggle-frame-set .dt-sc-toggle-frame h5.dt-sc-toggle-accordion:before,
+.dt-sc-toggle-frame-set .dt-sc-toggle-frame h5.dt-sc-toggle:before,
+.dt-sc-toggle-frame-set .dt-sc-toggle-frame h5.dt-sc-toggle-accordion:after,
+.dt-sc-toggle-frame-set .dt-sc-toggle-frame h5.dt-sc-toggle:after,
+.dt-sc-toggle-group-set .dt-sc-toggle-frame h5.dt-sc-toggle-accordion a::after,
+.dt-sc-toggle-group-set .dt-sc-toggle-frame h5.dt-sc-toggle-accordion a::before,
+.dt-sc-toggle-group-set .dt-sc-toggle-frame h5.dt-sc-toggle::after,
+.dt-sc-toggle-group-set .dt-sc-toggle-frame h5.dt-sc-toggle::before,
+.dt-sc-event.type5:hover .dt-sc-events-read-more,
+.dt-sc-button.with-icon span,
+h5.dt-sc-toggle-accordion:before,
+h5.dt-sc-toggle-accordion:after,
+h5.dt-sc-toggle-accordion:after,
+h5.dt-sc-toggle:before,
+h5.dt-sc-toggle:after,
+.dt-sc-toggle-frame h5.dt-sc-toggle-accordion.active:after,
+.dt-sc-dark-bg h5.dt-sc-toggle-accordion:after,
+.dt-sc-dark-bg h5.dt-sc-toggle-accordion:before,
+h5.dt-sc-toggle-accordion.active:after,
+h5.dt-sc-toggle.active:after,
+.dt-sc-dark-bg h5.dt-sc-toggle:after,
+.dt-sc-dark-bg h5.dt-sc-toggle:before,
+.dt-sc-dark-bg h5.dt-sc-toggle-accordion:after,
+.dt-sc-contact-info.type5 span,
+.dt-sc-event.type1 .dt-sc-event-meta,
+.dt-sc-image-caption.type6 .dt-sc-image-overlay .dt-sc-button:hover,
+.dt-sc-team-social.hexagon-border li:hover,
+.dt-sc-sociable.hexagon-with-border li:hover,
+.dt-sc-sociable.hexagon-border li:hover,
+.dt-sc-button.dt-sc-expand::after {
+    background-color: #FFFFFF;
+}
+
+.dt-sc-dropcap-wrapper .vc_column-inner:hover .dt-sc-dropcap-container .dt-sc-dropcap,
+.dt-sc-contact-info.type3:after,
+.dt-sc-image-caption .dt-sc-image-wrapper .icon-wrapper:after,
+.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="text"],
+.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="email"],
+.dt-sc-newsletter-section.type3 .dt-sc-subscribe-frm input[type="text"],
+.dt-sc-newsletter-section.type3 .dt-sc-subscribe-frm input[type="email"],
+.dt-sc-newsletter-section.type4,
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="email"],
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="text"],
+.entry-format a,
+.blog-entry.blog-medium-style:hover .entry-format a,
+.blog-entry.blog-medium-style.dt-blog-medium-highlight.dt-sc-skin-highlight .entry-format a,
+.dt-sc-image-caption.type5 .dt-sc-image-title:before,
+.dt-sc-image-caption.type5 .dt-sc-image-title:after,
+.dt-sc-timeline-section.type2 .dt-sc-timeline .dt-sc-timeline-content .dt-sc-timeline-icon-wrapper,
+.dt-sc-timeline-section.type3 .dt-sc-timeline .dt-sc-timeline-content:after,
+.vc-table tr.alternate td,
+.vc-table .alternate td,
+.tribe-week-grid-hours,
+.type2.tribe_events .event-details,
+.type2.tribe_events .event-organize,
+.type2.tribe_events .event-venue,
+.type1.tribe_events .event-image-wrapper .event-datetime,
+.type1.tribe_events .event-image-wrapper .event-venue,
+.dt-sc-events-list:hover,
+#tribe-bar-form .tribe-bar-filters-inner {
+    background-color: #000000;
+}
+
+.dt-sc-icon-box.type5 .icon-wrapper:before,
+.dt-sc-icon-box.type13,
+.dt-sc-image-caption.type7 .dt-sc-image-content {
+    background-color: #191919;
+}
+
+.tribe-events-calendar div[id*="tribe-events-daynum-"],
+.tribe-events-calendar div[id*="tribe-events-daynum-"] a {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.tribe-events-calendar div[id*="tribe-events-daynum-"] a {
+    background: none;
+}
+
+.dt-sc-testimonial.type2 .dt-sc-testimonial-quote:before,
+.dt-sc-testimonial.type2 .dt-sc-testimonial-quote:after,
+.dt-sc-popular-procedures .details {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+.dt-sc-images-wrapper .carousel-arrows a,
+.dt-sc-image-caption.type5 .dt-sc-image-content,
+.tribe-events-grid .tribe-scroller>.scroller-pane {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.tribe-events-grid .tribe-scroller>.scroller-pane>.scroller-slider,
+.dt-sc-pricing-table.dt-sc-pr-tb-col .dt-sc-tb-header .dt-sc-price {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.dt-sc-event.type4 h2.entry-title {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.dt-sc-toggle-frame h5.dt-sc-toggle-accordion:after,
+.dt-sc-toggle-frame h5.dt-sc-toggle-accordion:before,
+.dt-sc-toggle-frame h5.dt-sc-toggle:after,
+.dt-sc-toggle-frame h5.dt-sc-toggle:before,
+.dt-sc-image-caption.type6 .dt-sc-image-overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.dt-sc-hr-timeline-section.type1 .dt-sc-hr-timeline .dt-sc-hr-timeline-content,
+.dt-sc-hr-timeline-section.type1 .dt-sc-hr-timeline .dt-sc-hr-timeline-content:before,
+.dt-sc-hr-timeline-section.type2:before,
+.dt-sc-hr-timeline-section.type2 .dt-sc-hr-timeline-thumb:after,
+.dt-sc-title.with-two-color-stripe:before,
+.dt-sc-dark-bg .dt-sc-bmi-calculator,
+.dt-sc-training-details,
+.dt-sc-timeline-section:before,
+.dt-sc-timeline .dt-sc-timeline-content:after,
+.dt-sc-timeline-section.type2:before,
+.dt-sc-timeline-section.type3:before,
+.tribe-grid-allday,
+.tribe-events-list-separator-month,
+.tribe-week-today,
+.tribe-events-day .tribe-events-day-time-slot h5,
+.recurring-info-tooltip,
+.tribe-events-calendar .tribe-events-tooltip,
+.tribe-events-week .tribe-events-tooltip,
+.tribe-events-photo-event-wrap,
+.type5.tribe_events .nav-top-links a:hover,
+.type3.tribe_events .dt-sc-tabs-horizontal-frame-content,
+.event-meta-tab ul.dt-sc-tabs-horizontal-frame>li>a.current,
+.dt-sc-event.type3 .dt-sc-event-meta,
+.dt-sc-event.type5 .dt-sc-event-cost,
+.dt-sc-event.type5 .dt-sc-events-read-more,
+.dt-sc-events-list::before,
+.dt-sc-newsletter-section.type1 .dt-sc-subscribe-frm input[type="email"],
+.dt-sc-newsletter-section.type1 .dt-sc-subscribe-frm input[type="text"],
+.boxed-header .main-header,
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="tel"],
+input[type="number"],
+input[type="range"],
+input[type="date"],
+textarea,
+input.text,
+input[type="search"],
+textarea,
+select,
+.selection-box:after,
+.selection-box select,
+.blog-entry.with-border,
+.skin-highlight .dt-sc-button.rounded-border:hover,
+.skin-highlight .dt-sc-button.bordered:hover,
+.widget .dt-sc-newsletter-section.boxed .dt-sc-subscribe-frm input[type="email"],
+.widget .dt-sc-newsletter-section.boxed .dt-sc-subscribe-frm input[type="submit"],
+.available-domains li .dt-sc-button,
+.left-header #header-wrapper,
+.hotel-search-container form input[type="submit"],
+.menu-icons-wrapper .top-menu-search-container .search-form,
+.main-header #searchform,
+.tagcloud a,
+.hotel-search-container h4,
+.widget.widget_categories ul li>a span,
+.widget.widget_archive ul li>a span,
+.dt-sc-icon-box.type10,
+.dt-sc-icon-box.type11,
+.dt-sc-newsletter-section.type3 .dt-sc-subscribe-frm,
+.dt-sc-team.type2,
+.dt-sc-hr-timeline-section.type2 .dt-sc-hr-timeline-thumb:before,
+.dt-sc-timeline-section.type4 .dt-sc-timeline-image-wrapper:before,
+.dt-sc-timeline-section.type4:before,
+.dt-sc-timeline-section.type4 .dt-sc-timeline-image-wrapper:after,
+#tribe-bar-form,
+.post-nav-container .post-next-link a,
+.post-nav-container .post-prev-link a {
+    background-color: #252525;
+}
+
+@media only screen and (max-width: 767px) {
+    .dt-sc-timeline-section.type1::after,
+    .dt-sc-timeline-section.type3::after {
+        background-color: #252525;
+    }
+}
+
+.dt-sc-tabs-horizontal-container ul.dt-sc-tabs-horizontal>li>a,
+.dt-sc-tabs-vertical-container ul.dt-sc-tabs-vertical>li>a,
+.dt-sc-toggle-group-set h5.dt-sc-toggle a::before,
+.dt-sc-toggle-frame-set h5.dt-sc-toggle-accordion a::before,
+.dt-sc-toggle-frame h5.dt-sc-toggle-accordion,
+.dt-sc-toggle-frame h5.dt-sc-toggle,
+.dt-sc-pricing-table.dt-sc-pr-tb-col,
+.dt-sc-pr-tb-col.minimal .icon-wrapper:before,
+.dt-sc-pr-tb-col.minimal .dt-sc-price,
+.dt-sc-pr-tb-col .dt-sc-buy-now a,
+.dt-sc-pr-tb-col .dt-sc-tb-header,
+.tribe-events-photo-event-wrap:hover,
+#tribe-events-photo-events .type-tribe_events.tribe-events-photo-event,
+.type5.tribe_events .nav-top-links a,
+.dt-sc-event-image-caption,
+.dt-sc-progress,
+.dt-sc-titled-box-content,
+.dt-sc-icon-box.type10 .icon-wrapper,
+.dt-sc-icon-box.type11.alter,
+.dt-sc-twitter-icon span,
+.dt-sc-twitter-icon:before,
+.dt-sc-twitter-icon:after,
+#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a,
+.post-edit-link,
+.vc_inline-link {
+    background-color: #333333;
+}
+
+/* Color */
+
+.dt-sc-counter,
+.dt-sc-testimonial.type1 blockquote,
+.dt-sc-testimonial-wrapper .dt-sc-testimonial .dt-sc-testimonial-author cite,
+.dt-sc-contact-info.type3 p a:hover,
+.dt-sc-counter,
+.top-bar a,
+.dt-sc-boxed-tooltip,
+.dt-sc-dropcap-wrapper .vc_column-inner:hover .dt-sc-dropcap-container .dt-sc-dropcap,
+h5.dt-sc-donutchart-title,
+.dt-sc-testimonial-wrapper .dt-sc-testimonial .dt-sc-testimonial-author cite,
+.carousel-arrows a:hover:before,
+.dt-sc-contact-info a:hover,
+.dt-sc-contact-info.type3 p a,
+.dt-sc-contact-info.type2:hover span,
+.dt-sc-contact-info.type5:hover h6 a,
+.dt-sc-contact-info.type8:hover span,
+.dt-sc-triangle-wrapper:hover .dt-sc-triangle-content h4,
+.dt-sc-triangle-wrapper:hover .dt-sc-triangle-content h5,
+.dt-sc-icon-box.type5:hover .icon-wrapper span,
+.dt-sc-image-caption.type4:hover .dt-sc-image-content a,
+.dt-sc-twitter-feeds .tweet-text,
+.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="submit"]:hover,
+.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="text"],
+.dt-sc-newsletter-section.type2 .dt-sc-subscribe-frm input[type="email"],
+.blog-entry.entry-date-left .entry-date,
+.blog-entry.entry-date-left .entry-date a,
+.blog-entry.entry-date-left .entry-date a i,
+.blog-entry.blog-medium-style.dt-blog-medium-highlight:hover .entry-format a,
+.dt-sc-portfolio-sorting a,
+.dt-sc-icon-box.type5 .icon-content a:hover,
+.blog-entry.blog-medium-style.dt-blog-medium-highlight.dt-sc-skin-highlight .entry-format a,
+.dt-sc-timeline-section.type2 .dt-sc-timeline .dt-sc-timeline-content h2 span,
+.dt-sc-timeline-section.type3 .dt-sc-timeline .dt-sc-timeline-content h2 span,
+.dt-sc-timeline-section.type4 .dt-sc-timeline .dt-sc-timeline-content h2 span,
+.dt-sc-tabs-horizontal-container ul.dt-sc-tabs-horizontal>li>a:hover,
+.dt-sc-tabs-horizontal-container ul.dt-sc-tabs-horizontal>li>a.current,
+.dt-sc-tabs-vertical-container ul.dt-sc-tabs-vertical>li>a:hover,
+.dt-sc-tabs-vertical-container ul.dt-sc-tabs-vertical>li>a.current,
+.dt-sc-tabs-horizontal-container ul.dt-sc-tabs-horizontal>li>a,
+.dt-sc-tabs-vertical-container ul.dt-sc-tabs-vertical>li>a,
+.dt-sc-pr-tb-col .dt-sc-buy-now a,
+.recurring-info-tooltip,
+.tribe-events-calendar .tribe-events-tooltip,
+.tribe-events-week .tribe-events-tooltip,
+.type4.tribe_events .event-details li dt,
+.type4.tribe_events .event-organize li dt,
+.type4.tribe_events .event-venue li dt,
+.type5.tribe_events .nav-top-links a,
+.type5.tribe_events .event-details li,
+.type5.tribe_events .event-organize li,
+.type5.tribe_events .event-venue li,
+.type1.tribe_events .nav-top-links a,
+.type1 .event-schedule a,
+.event-meta-tab ul.dt-sc-tabs-horizontal-frame>li>a.current,
+.type3.tribe_events .event-details li dt,
+.type3.tribe_events .event-organize li dt,
+.type3.tribe_events .event-venue li dt,
+.type3.tribe_events .right-calc a,
+.type3.tribe_events .tribe-events-sub-nav a,
+.dt-sc-event.type4:hover .dt-sc-event-date span,
+.dt-sc-event.type5 .dt-sc-events-read-more,
+.dt-sc-events-list .dt-sc-event-title h5 small,
+.dt-sc-progress .dt-sc-bar-text,
+h5.dt-sc-toggle-accordion a:hover,
+h5.dt-sc-toggle a:hover,
+.type2 .dt-sc-toggle-frame h5.dt-sc-toggle-accordion.active a,
+.dt-sc-toggle-frame h5.dt-sc-toggle.active a,
+.dt-sc-contact-info.type3 h6,
+.dt-sc-contact-info.type3 p,
+.dt-sc-contact-info.type5:hover a span,
+.dt-sc-contact-info.type7 h6,
+.dt-sc-contact-info.type6,
+.dt-sc-contact-info.type6 span,
+.dt-sc-contact-info.type6 h6,
+.dt-sc-contact-info.type6 a,
+.dt-sc-contact-info.type4 span:before,
+.dt-sc-contact-info.type5:hover h6 a,
+th,
+.dt-sc-pr-tb-col:hover .dt-sc-buy-now a,
+.dt-sc-pr-tb-col.minimal:hover .dt-sc-buy-now a,
+.dt-sc-pr-tb-col.minimal:hover .dt-sc-price h6,
+.dt-sc-pr-tb-col.minimal:hover .dt-sc-price p,
+.dt-sc-pr-tb-col.minimal:hover .icon-wrapper span,
+.dt-sc-pr-tb-col:hover .dt-sc-tb-title h5,
+.dt-sc-pr-tb-col:hover .dt-sc-tb-title p,
+.dt-sc-pr-tb-col:hover .dt-sc-price h6,
+.dt-sc-pricing-table.dt-sc-pr-tb-col .dt-sc-tb-title h5,
+.dt-sc-event.type1:hover .dt-sc-event-meta p,
+.dt-sc-event.type1:hover .events-venue a,
+.dt-sc-event.type1 .dt-sc-event-thumb p,
+.dt-sc-icon-box.type10:hover .icon-wrapper span,
+.dt-sc-icon-box.type10:hover .icon-content h4,
+.dt-sc-icon-box.type11:hover .icon-content h4,
+.dt-sc-icon-box.type11.red:hover .icon-content h4,
+.dt-sc-icon-box.type11.green:hover .icon-content h4,
+.dt-sc-icon-box.type11.blue:hover .icon-content h4,
+.dt-sc-icon-box.type11.cadetblue:hover .icon-content h4,
+.dt-sc-icon-box.type11.slateblue:hover .icon-content h4,
+.dt-sc-icon-box.type11.brown:hover .icon-content h4,
+.dt-sc-icon-box.type11.orange:hover .icon-content h4,
+.dt-sc-icon-box.type11.lightgreen:hover .icon-content h4,
+.dt-sc-icon-box.type11:hover .icon-content p,
+.dt-sc-twitter-icon span,
+.dt-sc-team.type2 .dt-sc-team-details h4,
+.dt-sc-team.type2 .dt-sc-team-details h5,
+.dt-sc-team-social.hexagon-border li a,
+#tribe-bar-form label,
+.tribe-events-calendar div[id*="tribe-events-daynum-"],
+.tribe-events-calendar div[id*="tribe-events-daynum-"] a,
+.pagination ul li a,
+.pagination ul li span,
+.pagination ul li a:hover,
+.pagination ul li span,
+.pagination ul li a:hover i,
+.post-nav-container .post-next-link a,
+.post-nav-container .post-prev-link a,
+.post-nav-container .post-next-link a i,
+.post-nav-container .post-prev-link a i,
+.post-nav-container .post-next-link a:hover,
+.post-nav-container .post-prev-link a:hover,
+.post-nav-container .post-next-link a:hover i,
+.post-nav-container .post-prev-link a:hover i,
+.post-edit-link,
+.vc_inline-link,
+.dt-sc-button.filled,
+.dt-sc-button.filled:hover {
+    color: #FFFFFF;
+}
+
+.dt-sc-testimonial-wrapper .dt-sc-testimonial .dt-sc-testimonial-author cite small,
+.dt-sc-team.hide-social-show-on-hover .dt-sc-team-details h5,
+.dt-sc-icon-box.type5 .icon-wrapper span,
+.dt-sc-image-caption .dt-sc-image-title h6,
+.dt-sc-contact-info.type2 h6,
+.dt-sc-title.with-boxed h2 a:hover,
+.dt-sc-newsletter-section.type3 .dt-sc-subscribe-frm input[type="text"],
+.dt-sc-newsletter-section.type3 .dt-sc-subscribe-frm input[type="email"],
+.dt-sc-newsletter-section.type6 .dt-sc-subscribe-frm input[type="email"],
+.carousel-arrows a::before,
+.dt-sc-sociable.diamond-square-border li a,
+.dt-sc-team.rounded.hide-social-show-on-hover .dt-sc-team-details h5,
+.dt-sc-team.rounded.hide-social-show-on-hover:hover .dt-sc-team-details h5,
+.dt-sc-tweet span,
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="text"],
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="email"],
+.project-details li a,
+.project-details p,
+.type4.tribe_events .event-details li,
+.type4.tribe_events .event-organize li,
+.type4.tribe_events .event-venue li,
+.type3.tribe_events .event-details li,
+.type3.tribe_events .event-organize li,
+.type3.tribe_events .event-venue li,
+.dt-sc-event.type5 .dt-sc-event-meta .dt-sc-event-date,
+.dt-sc-event.type1:hover .dt-sc-event-meta p span {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.dt-sc-contact-info.type6 a:hover {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.dt-sc-testimonial.type5 .dt-sc-testimonial-author cite:before {
+    color: rgba( 255, 255, 255, 0.3);
+}
+
+.blog-entry .entry-meta a,
+.entry-meta .date,
+.entry-meta .comments,
+.entry-meta .author,
+.dt-sc-event.type4 h2.entry-title a,
+.dt-sc-event.type4 .dt-sc-event-date i,
+.left-header-footer p,
+.dt-sc-hexagons li span,
+.dt-sc-events-list-wrapper h3,
+.dt-sc-events-list .dt-sc-event-date p span,
+.dt-sc-events-list .dt-sc-event-duration h6,
+ul.dt-sc-tabs-horizontal-frame>li>a {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.dt-sc-icon-box .large-icon {
+    color: rgba(255, 255, 255, 0.15);
+}
+
+.dt-sc-dropcap-container .dt-sc-dropcap,
+.dt-sc-newsletter-section.type2 input[type="submit"],
+.dt-sc-contact-info.type2 span,
+.dt-sc-contact-info.type3 p a:hover,
+.dt-sc-contact-info.type8 span,
+.dt-sc-triangle-content h4,
+.dt-sc-triangle-wrapper .dt-sc-triangle-content h5,
+.dt-sc-icon-box.type7 .icon-wrapper span,
+.dt-sc-icon-box.type6:hover .icon-wrapper span,
+.dt-sc-icon-box.type6:hover .icon-content a,
+.dt-sc-icon-box.type3:hover .icon-wrapper span,
+.dt-sc-image-caption .dt-sc-image-wrapper .icon-wrapper span,
+.dt-sc-image-caption:hover .dt-sc-image-content a,
+.dt-sc-image-caption.type4 .dt-sc-image-content a:hover,
+.dt-sc-image-caption.type2 .dt-sc-image-content,
+.dt-sc-image-caption.type2 .dt-sc-image-content h3,
+.dt-sc-image-caption.type2:hover .dt-sc-image-content p,
+.blog-entry.blog-medium-style.dt-blog-medium-highlight.dt-sc-skin-highlight:hover .entry-format a,
+.dt-sc-event.type5:hover .dt-sc-events-read-more,
+.dt-sc-contact-info.type5 span,
+.dt-sc-image-caption.type6 .dt-sc-image-overlay .dt-sc-button:hover,
+.post-edit-link:hover,
+.vc_inline-link:hover,
+.left-header-footer .dt-sc-sociable li:hover a {
+    color: #000000;
+}
+
+.dt-sc-event.type1 .dt-sc-event-meta p,
+.dt-sc-event.type1 .events-venue a {
+    color: #252525;
+}
+
+.dt-sc-icon-box.type9 .icon-content p i {
+    color: #d5d5d5;
+}
+
+.dt-sc-image-caption.type6 .dt-sc-image-overlay p,
+.dt-sc-team.type2 .dt-sc-team-details p {
+    color: #999999;
+}
+
+/* Border-Color*/
+
+.dt-sc-dropcap-container .dt-sc-dropcap,
+.dt-sc-image-caption.type5 .dt-sc-image-content:before,
+.dt-sc-icon-box.type3 .icon-wrapper span,
+.dt-sc-contact-info.type8 span,
+.dt-sc-icon-box.type6 .icon-wrapper,
+.dt-sc-icon-box.type7 .icon-wrapper span,
+.dt-sc-event.type1 .dt-sc-event-meta p.events-venue,
+.dt-sc-icon-box.type10 .icon-wrapper,
+.dt-sc-icon-box.type11,
+.dt-sc-hr-timeline-section.type2 .dt-sc-hr-timeline-thumb:before,
+.dt-sc-timeline-section.type4 .dt-sc-timeline-image-wrapper:before {
+    border-color: #000000;
+}
+
+.dt-sc-down-arrow::before,
+.dt-sc-testimonial.type2 blockquote::before,
+.dt-sc-pr-tb-col.type2:hover .dt-sc-price::after {
+    border-top-color: #000000;
+}
+
+#tiptip_content,
+.dt-sc-dropcap-wrapper .vc_column-inner:hover .dt-sc-dropcap-container .dt-sc-dropcap,
+.dt-sc-contact-info.type2,
+.dt-sc-contact-info.type8,
+.dt-sc-button.with-icon span,
+.dt-sc-contact-info.type5,
+.dt-sc-pr-tb-col .dt-sc-price,
+.dt-sc-newsletter-section.type3 .dt-sc-subscribe-frm input[type="submit"],
+.dt-sc-team-social.hexagon-border li,
+.dt-sc-team-social.hexagon-border li:before,
+.dt-sc-team-social.hexagon-border li:after,
+.pagination ul li a,
+.pagination ul li span,
+.dt-sc-button.bordered:hover {
+    border-color: #FFFFFF;
+}
+
+#tiptip_holder.tip_top #tiptip_arrow {
+    border-top-color: #ffffff;
+}
+
+#tiptip_holder.tip_right #tiptip_arrow {
+    border-right-color: #ffffff;
+}
+
+#tiptip_holder.tip_bottom #tiptip_arrow {
+    border-bottom-color: #ffffff;
+}
+
+#tiptip_holder.tip_left #tiptip_arrow {
+    border-left-color: #ffffff;
+}
+
+.dt-sc-image-caption.type3 .dt-sc-image-wrapper:before {
+    border-right-color: #000000;
+}
+
+.dt-sc-image-caption.type3.left-content .dt-sc-image-wrapper:before {
+    border-left-color: #000000;
+}
+
+.dt-sc-image-caption.type3.bottom-content .dt-sc-image-wrapper:before {
+    border-bottom-color: #000000;
+}
+
+.dt-sc-testimonial.type2 blockquote,
+.dt-sc-testimonial.type2 .dt-sc-testimonial-author span,
+.dt-sc-icon-box.type7,
+.dt-sc-image-with-caption img,
+.dt-sc-image-caption.type4 .dt-sc-image-content,
+ul.dt-sc-tabs-horizontal-frame>li>a.current,
+.carousel-arrows a,
+.dt-sc-counter.type1,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="tel"]:focus,
+input[type="number"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+textarea:focus,
+input.text:focus,
+input[type="search"]:focus {
+    border-color: rgba(255, 255, 255, 0.25);
+}
+
+.dt-sc-icon-box.type1,
+.woocommerce form .selection-box::after,
+.woocommerce .selection-box::after,
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="url"],
+input[type="tel"],
+input[type="number"],
+input[type="range"],
+input[type="date"],
+textarea,
+input.text,
+input[type="search"],
+select,
+blockquote.type1 q,
+#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a {
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+.dt-sc-pricing-table.dt-sc-pr-tb-col {
+    border-color: rgba(0, 0, 0, 0.15);
+}
+
+.selection-box:before {
+    border-top-color: rgba(255, 255, 255, 0.15);
+}
+
+.selection-box:after {
+    border-right-color: rgba(255, 255, 255, 0.15);
+}
+
+.selection-box:after {
+    border-left-color: rgba(255, 255, 255, 0.15);
+}
+
+.dt-sc-contact-info.type3:before {
+    border-color: rgba(255, 255, 255, 0.4);
+}
+
+.dt-sc-toggle-frame h5.dt-sc-toggle-accordion,
+.dt-sc-toggle-frame h5.dt-sc-toggle {
+    border-bottom-color: rgba(0, 0, 0, 0.1);
+}
+
+.dt-sc-toggle-frame h5.dt-sc-toggle-accordion,
+.dt-sc-toggle-frame h5.dt-sc-toggle {
+    border-color: rgba(0, 0, 0, 0.1);
+}
+
+.dt-sc-toggle-frame .dt-sc-toggle-content {
+    border-bottom-color: rgba(0, 0, 0, 0.1);
+}
+
+.dt-sc-team.type2 .dt-sc-team-details h5 {
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+.tweet_list li {
+    border-bottom-color: rgba(255, 255, 255, 0.15);
+}
+
+.dt-sc-triangle-content:before {
+    border-top-color: #FFFFFF;
+}
+
+.dt-sc-triangle-wrapper.alter .dt-sc-triangle-content:before,
+.dt-sc-image-caption:hover .dt-sc-image-wrapper .icon-wrapper:before,
+.dt-sc-image-caption .dt-sc-image-title span {
+    border-bottom-color: #FFFFFF;
+}
+
+blockquote.type1 q,
+blockquote.type2,
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="text"],
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="email"],
+.dt-sc-newsletter-section.type4,
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="text"],
+.dt-sc-newsletter-section.type4 .dt-sc-subscribe-frm input[type="email"],
+.dt-sc-pr-tb-col:hover .dt-sc-price {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.dt-sc-sociable.diamond-square-border li,
+.dt-sc-sociable.rounded-border li a,
+.vc-table table,
+.vc-table thead th,
+.vc-table td,
+.vc-table tbody th,
+.dt-sc-pr-tb-col,
+.dt-sc-pr-tb-col .dt-sc-tb-content li {
+    border-color: rgba(255, 255, 255, 0.5);
+}
+
+.dt-sc-timeline .dt-sc-timeline-content:before,
+.dt-sc-timeline-section.type3 .dt-sc-timeline .dt-sc-timeline-content:before,
+.tribe-grid-header,
+.dt-sc-event.type4 .dt-sc-event-date,
+.dt-sc-timeline-section.type4 .dt-sc-timeline-image-wrapper img,
+.dt-sc-testimonial.type3 .dt-sc-testimonial-author:before,
+.post-nav-container .post-next-link a,
+.post-nav-container .post-prev-link a,
+.post-nav-container:before {
+    border-color: #252525;
+}
+
+.dt-sc-team.type2 .dt-sc-team-details:before {
+    border-right-color: #252525;
+}
+
+.widget.widget_categories ul li>a span,
+.widget.widget_archive ul li>a span {
+    border-bottom-color: #252525;
+}
+
+#tribe-events-content .tribe-events-calendar td,
+#tribe-events-content table.tribe-events-calendar {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.tribe-week-grid-block div,
+.tribe-events-grid .tribe-grid-content-wrap .column,
+.tribe-grid-allday,
+.tribe-events-grid {
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+.type-tribe_events.tribe-events-photo-event .tribe-events-photo-event-wrap,
+.type4.tribe_events .data-wrapper p,
+.type3.tribe_events .tribe-events-sub-nav,
+.dt-sc-events-list-wrapper h3,
+.dt-sc-events-list .dt-sc-event-date,
+.dt-sc-image-caption.type7:hover .dt-sc-image-content,
+.dt-sc-progress,
+.dt-sc-icon-box.type8,
+.dt-sc-testimonial.type1 .dt-sc-testimonial-author span {
+    border-color: #333333;
+}
+
+.dt-sc-event-image-caption .dt-sc-image-content:before,
+.dt-sc-icon-box.type4:before {
+    border-left-color: #333333;
+}
+
+.dt-sc-icon-box.type13:hover,
+.dt-sc-image-caption.type7 .dt-sc-image-content {
+    border-color: #191919;
+}
+
+/* Box-shadow */
+
+.dt-sc-dropcap-container .dt-sc-dropcap {
+    -moz-box-shadow: 0 0 0 10px #ffffff inset;
+    -webkit-box-shadow: 0 0 0 10px #ffffff inset;
+    box-shadow: 0 0 0 10px #ffffff inset;
+}
+
+.dt-sc-dropcap-wrapper .vc_column-inner:hover .dt-sc-dropcap-container .dt-sc-dropcap {
+    -moz-box-shadow: 0 0 0 1px #ffffff inset;
+    -webkit-box-shadow: 0 0 0 1px #ffffff inset;
+    box-shadow: 0 0 0 1px #ffffff inset;
+}
+
+.dt-sc-icon-box.type9 .icon-content {
+    -webkit-box-shadow: 0 0 0 200px #252525 inset;
+    -moz-box-shadow: 0 0 0 200px #252525 inset;
+    box-shadow: 0 0 0 200px #252525 inset;
+}
+
+.dt-sc-icon-box.type9:hover .icon-content {
+    -webkit-box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.2) inset;
+    -moz-box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.2) inset;
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.2) inset;
+}
+
+.tribe-events-photo-event-wrap:hover {
+    -webkit-box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    -moz-box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+.type2.tribe_events .event-details,
+.type2.tribe_events .event-organize,
+.type2.tribe_events .event-venue {
+    -webkit-box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.7);
+    -moz-box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.7);
+}
+
+.dt-sc-event.type2 .dt-sc-event-meta {
+    -webkit-box-shadow: 0 20px 0 #000000;
+    -moz-box-shadow: 0 20px 0 #000000;
+    box-shadow: 0 20px 0 #000000;
+}
+
+.dt-sc-progress .dt-sc-bar {
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+}
+
+.dt-sc-progress-striped .dt-sc-bar {
+    background-image: -webkit-gradient(linear, 0 100%, 100% 0, color-stop(0.25, rgba(255, 255, 255, 0.15)), color-stop(0.25, transparent), color-stop(0.5, transparent), color-stop(0.5, rgba(255, 255, 255, 0.15)), color-stop(0.75, rgba(255, 255, 255, 0.15)), color-stop(0.75, transparent), to(transparent));
+    background-image: -webkit-linear-gradient(90deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+    background-image: -moz-linear-gradient(90deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+    background-image: -o-linear-gradient(90deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+}
+
+.dt-sc-progress .dt-sc-bar+.dt-sc-bar {
+    -webkit-box-shadow: inset 1px 0 0 rgba(0, 0, 0, .15), inset 0 -1px 0 rgba(0, 0, 0, .15);
+    -moz-box-shadow: inset 1px 0 0 rgba(0, 0, 0, .15), inset 0 -1px 0 rgba(0, 0, 0, .15);
+    box-shadow: inset 1px 0 0 rgba(0, 0, 0, .15), inset 0 -1px 0 rgba(0, 0, 0, .15);
+}
+
+.left-header .main-header {
+    -webkit-box-shadow: 0 0 50px 0 #000000;
+    -moz-box-shadow: 0 0 50px 0 #000000;
+    box-shadow: 0 0 50px 0 #000000;
+}
+
+/*----*****---- << Woo-commerce >> ----*****----*/
+
+/* Background Color */
+
+.woocommerce a.button:hover,
+.woocommerce button.button:hover,
+.woocommerce button:hover,
+.woocommerce input.button:hover,
+.woocommerce input[type=button]:hover,
+.woocommerce input[type=submit]:hover,
+.woocommerce #respond input#submit:hover,
+.woocommerce a.button.alt:hover,
+.woocommerce button.button.alt:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce #respond input#submit.alt:hover,
+.woocommerce .product .summary .add_to_wishlist:hover,
+.woocommerce .wishlist_table .add_to_cart.button:hover,
+.woocommerce .yith-wcwl-add-button a.add_to_wishlist:hover,
+.woocommerce .yith-wcwl-popup-button a.add_to_wishlist:hover,
+.woocommerce .wishlist_table a.ask-an-estimate-button:hover,
+.woocommerce .wishlist-title a.show-title-form:hover,
+.woocommerce .hidden-title-form a.hide-title-form:hover,
+.woocommerce .yith-wcwl-wishlist-new button:hover,
+.woocommerce .wishlist_manage_table a.create-new-wishlist:hover,
+.woocommerce .wishlist_manage_table button.submit-wishlist-changes:hover,
+.woocommerce .yith-wcwl-wishlist-search-form button.wishlist-search-button:hover,
+.woocommerce .cart input.button:hover,
+.woocommerce-page a.button:hover,
+.woocommerce-page button.button:hover,
+.woocommerce-page button:hover,
+.woocommerce-page input.button:hover,
+.woocommerce-page input[type=button]:hover,
+.woocommerce-page input[type=submit]:hover,
+.woocommerce-page #respond input#submit:hover,
+.woocommerce-page a.button.alt:hover,
+.woocommerce-page button.button.alt:hover,
+.woocommerce-page input.button.alt:hover,
+.woocommerce-page #respond input#submit.alt:hover,
+.woocommerce-page .product .summary .add_to_wishlist:hover,
+.woocommerce-page .wishlist_table .add_to_cart.button:hover,
+.woocommerce-page .yith-wcwl-add-button a.add_to_wishlist:hover,
+.woocommerce-page .yith-wcwl-popup-button a.add_to_wishlist:hover,
+.woocommerce-page .wishlist_table a.ask-an-estimate-button:hover,
+.woocommerce-page .wishlist-title a.show-title-form:hover,
+.woocommerce-page .hidden-title-form a.hide-title-form:hover,
+.woocommerce-page .yith-wcwl-wishlist-new button:hover,
+.woocommerce-page .wishlist_manage_table a.create-new-wishlist:hover,
+.woocommerce-page .wishlist_manage_table button.submit-wishlist-changes:hover,
+.woocommerce-page .yith-wcwl-wishlist-search-form button.wishlist-search-button:hover,
+.woocommerce-page .cart input.button:hover,
+ul.products li .product-wrapper,
+.woocommerce .woocommerce-message,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-error {
+    background-color: #FFFFFF;
+}
+
+.woocommerce tbody td,
+.woocommerce tbody th,
+.woocommerce table.shop_attributes .alt td,
+.woocommerce table.shop_attributes .alt th,
+.woocommerce .cart_totals table.shop_table th,
+.woocommerce-page .cart_totals table.shop_table th,
+.woocommerce-checkout #payment {
+    background: #333333;
+}
+
+.woocommerce .quantity .qty,
+.select2-results,
+.select2-container .select2-choice,
+.select2-search,
+.select2-drop.select2-drop-above.select2-drop-active,
+.select2-drop {
+    background-color: #252525;
+}
+
+.woocommerce-checkout #payment div.payment_box {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.woocommerce ul.products li.product:hover .product-content {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+/* Color */
+
+.woocommerce ul.products li.product .onsale,
+.woocommerce ul.products li.product .product-details a,
+.woocommerce ul.products li.product .out-of-stock,
+.woocommerce ul.products li.product .price,
+.product .summary .price .from,
+.product_meta a:hover,
+#billing_country_chzn,
+#billing_state_chzn,
+.chzn-container-single .chzn-single span,
+.woocommerce-checkout #payment ul.payment_methods li,
+.woocommerce .woocommerce-message a,
+.woocommerce .woocommerce-info a,
+.woocommerce .woocommerce-error a,
+.woocommerce table.shop_attributes tbody th {
+    color: #000000;
+}
+
+.woocommerce th.product-price,
+.woocommerce .product-price,
+.woocommerce .cart_totals table tbody th,
+.woocommerce-checkout #payment ul.payment_methods li label,
+.payment_methods a,
+.woocommerce table.cart td.product-name a:hover,
+.product-thumb-wrapper .summary .woocommerce-product-rating a:hover,
+.product .summary .price .amount,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover,
+.product-thumb-wrapper .summary .product_meta a:hover,
+.woocommerce-account .addresses .title .edit:hover {
+    color: #FFFFFF;
+}
+
+.woocommerce span.price ins .amount,
+.woocommerce .product-price ins .amount,
+ul.products li .product-title p,
+.woocommerce p.price del,
+.woocommerce span.price del,
+.woocommerce .product-price del,
+.woocommerce p.price del .amount,
+.woocommerce span.price del .amount,
+.woocommerce .product-price del .amount {
+    color: #ffffff;
+}
+
+.woocommerce .woocommerce-error,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-message {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li a {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.woocommerce-MyAccount-navigation ul>li>a {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+/* Border Color */
+
+.woocommerce-checkout #payment ul.payment_methods {
+    border-color: #252525;
+}
+
+.woo-type15 ul.products li.product:hover .product-content:after {
+    border-color: rgba(255, 255, 255, 0.75) rgba(255, 255, 255, 0.75) rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.35);
+}
+
+.woocommerce ul.products li.product .product-content:after {
+    border-color: rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.75) rgba(255, 255, 255, 0.75);
+}
+
+.woocommerce ul.products li.product:hover .product-content:after {
+    border-color: rgba(255, 255, 255, 0.25) rgba(255, 255, 255, 0.25) rgba(255, 255, 255, 0.35) rgba(255, 255, 255, 0.35);
+}
+
+.woocommerce table.shop_table td {
+    border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.woocommerce table.wishlist_table thead th,
+.woocommerce table.wishlist_table tbody td,
+.woocommerce-cart .cart-collaterals .cart_totals tr th,
+.woocommerce-cart .cart-collaterals .cart_totals tr td,
+.woocommerce-cart table.cart td.actions .coupon .input-text,
+.select2-search input[type="text"],
+.woocommerce table.shop_attributes,
+.woocommerce table.shop_table,
+.woocommerce-cart .cart-collaterals .cart_totals table.shop_table.cart,
+.woocommerce-checkout #payment div.form-row {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.woocommerce .shop_table th:first-child,
+.woocommerce .shop_table td:first-child {
+    border-left-color: rgba(255, 255, 255, 0.1);
+}
+
+.woocommerce .shop_table th:last-child,
+.woocommerce .shop_table td:last-child {
+    border-right-color: rgba(255, 255, 255, 0.1);
+}
+
+.woocommerce .shop_table.cart tbody tr:last-child th,
+.woocommerce .shop_table.cart tbody tr:last-child td,
+.woocommerce .shop_table tfoot tr:last-child th,
+.woocommerce .shop_table tfoot tr:last-child td {
+    border-bottom-color: rgba(255, 255, 255, 0.1);
+}
+
+.woocommerce form.checkout_coupon,
+.woocommerce form.login,
+.woocommerce form.register,
+.addresses .col-1 header,
+.addresses .col-2 header,
+.addresses .col-1 address,
+.addresses .col-2 address {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.select2-container-active .select2-choice,
+.select2-container-active .select2-choices {
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.woocommerce-checkout #payment div.payment_box:after {
+    border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(255, 255, 255, 0.1);
+}
+
+.woocommerce-MyAccount-navigation ul>li.is-active>a {
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.woocommerce-MyAccount-navigation ul>li.is-active>a {
+    border-bottom-color: #000000;
+}
+
+.woocommerce-MyAccount-navigation ul {
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Box shadow Color */
+
+.woo-type15 ul.products li.product:hover .product-wrapper {
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    -ms-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    -o-box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+}
+
+.select2-dropdown-open .select2-choice {
+    -moz-box-shadow: 0 1px 0 #252525 inset;
+    -webkit-box-shadow: 0 1px 0 #252525 inset;
+    box-shadow: 0 1px 0 #252525 inset;
+}
+
+/*----*****---- << 404 & Coming Soon >> ----*****----*/
+
+/* Background Color */
+
+.error-content .menu-links li:hover a,
+.under-construction.type6 .dt-sc-newsletter-section input[type="email"] {
+    background: #FFFFFF;
+}
+
+.error404.type7 .dt-go-back,
+.error404.type7 #searchform input[type="submit"] {
+    background-color: #252525;
+}
+
+.error404.type7 .dt-go-back:hover,
+.error404.type7 #searchform input[type="submit"]:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+.error404.type7 #searchform input[type="text"] {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Color */
+
+.error-content .menu-links li a {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.error-content .menu-links li:hover a,
+.error404.type7 #searchform input[type="submit"]:hover,
+.error404.type7 .dt-go-back:hover,
+.under-construction.type6 .dt-sc-newsletter-section input[type="email"] {
+    color: #000000;
+}
+
+.error404.type7 .dt-go-back,
+.error404.type7 #searchform input[type="submit"],
+.under-construction.type6 .wpb_wrapper>h2 {
+    color: #ffffff;
+}
+
+/* Border-Color */
+
+.error404.type7 .dt-go-back,
+.error404.type7 #searchform input[type="submit"] {
+    border-color: #333333;
+}
+
+.error404.type7 .dt-go-back:hover {
+    border-color: rgba(0, 0, 0, 0.5);
+}
+
+.error404.type7 #searchform input[type="submit"]:hover {
+    border-color: #252525;
+}
+
+/*----*****---- << To Top >> ----*****----*/
+
+#toTopHover {
+    background-position: left -40px;
+}
+
+#toTop:hover {
+    box-shadow: -4px -4px 0px 0px rgba(255, 255, 255, 0.4);
+    -webkit-box-shadow: -4px -4px 0px 0px rgba(255, 255, 255, 0.4);
+    -moz-box-shadow: -4px -4px 0px 0px rgba(255, 255, 255, 0.4);
+}
